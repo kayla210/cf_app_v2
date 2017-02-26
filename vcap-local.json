@@ -31,7 +31,7 @@
             "label": "cloudantNoSQLDB",
             "provider": null,
             "plan": "Lite",
-            "name": "cf_app_v2-cloudantNoSQLDB",
+            "name": "Idkyet-cloudantNoSQLDB",
             "tags": [
                 "data_management",
                 "ibm_created",

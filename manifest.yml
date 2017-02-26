@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: cf_app_v2
-  host: cf_app_v2
+  name: Idkyet
+  host: Idkyet
   disk_quota: 1024M
   services:
-  - cf_app_v2-cloudantNoSQLDB
+  - Idkyet-cloudantNoSQLDB
