@@ -1,23 +1,4 @@
 {
-    "AvailabilityMonitoring": [
-        {
-            "credentials": {
-                "pass": "0485870f-2f39-4eb6-b9f6-ab49e9b6e061",
-                "id": "0d731832-e517-4619-838a-3b340dcf8eb9",
-                "url": "https://perfbroker.ng.bluemix.net/1.0/credentials/0d731832-e517-4619-838a-3b340dcf8eb9"
-            },
-            "syslog_drain_url": null,
-            "label": "AvailabilityMonitoring",
-            "provider": null,
-            "plan": "Lite",
-            "name": "availability-monitoring-auto",
-            "tags": [
-                "ibm_created",
-                "bluemix_extensions",
-                "dev_ops"
-            ]
-        }
-    ],
     "cloudantNoSQLDB": [
         {
             "credentials": {
@@ -36,6 +17,27 @@
                 "data_management",
                 "ibm_created",
                 "lite",
+                "ibm_dedicated_public"
+            ]
+        }
+    ],
+    "twitterinsights": [
+        {
+            "credentials": {
+                "username": "aa9e5c44-965c-497f-9946-03fa7b4f649a",
+                "password": "Ju5CHIL8U9",
+                "host": "cdeservice.mybluemix.net",
+                "port": 443,
+                "url": "https://aa9e5c44-965c-497f-9946-03fa7b4f649a:Ju5CHIL8U9@cdeservice.mybluemix.net"
+            },
+            "syslog_drain_url": null,
+            "label": "twitterinsights",
+            "provider": null,
+            "plan": "Free",
+            "name": "twitter_v2",
+            "tags": [
+                "big_data",
+                "ibm_created",
                 "ibm_dedicated_public"
             ]
         }
